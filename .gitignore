@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+dist.zip
+
+# Environment & Logs
+*.log
+.env
+.env.local
+.DS_Store
+.vercel
